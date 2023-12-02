@@ -35,12 +35,11 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <artifactId>cs1632-cicd-pipelines-edr38</artifactId>
       <name>GitHub Apache Maven Packages</name>
       <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-wonsunahn</url>
     </repository>
   </distributionManagement>
-  
+  <artifactId>cs1632-cicd-pipelines-edr38</artifactId>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
